@@ -1,0 +1,14 @@
+﻿<xapCache source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Bin\Debug\PhoneApp4_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="09-11-2014 12:16:48">
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\obj\Debug\PhoneApp4.dll" archivePath="PhoneApp4.dll" lastWriteTime="09-11-2014 12:16:34" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="08-11-2014 21:05:54" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="08-11-2014 21:05:54" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="08-11-2014 21:05:54" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="08-11-2014 21:05:54" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="08-11-2014 21:05:54" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="09-11-2014 03:26:57" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="08-11-2014 21:05:55" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="08-11-2014 21:05:54" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="25-09-2012 01:41:02" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="25-09-2012 01:41:02" />
+  <file source="C:\Users\Saket\Documents\Visual Studio 2013\Projects\PhoneApp4\PhoneApp4\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="08-11-2014 21:06:51" />
+</xapCache>
